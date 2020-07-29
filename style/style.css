@@ -1,0 +1,47 @@
+.row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.box{
+     height: 75px;
+      width: 150px;
+       margin: auto;
+      border-top-right-radius: 85px;
+      border-top-left-radius: 85px;
+}
+.nav {
+    height: 20px; 
+    width: 20px;
+    border-radius: 50px;
+    
+}
+.colour{
+    background-color: rgb(8, 8, 39);
+}
+
+form .form-control{
+    background: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 0%;
+    border-bottom: 1px solid rgb(63, 63, 63);
+}
+
+
+.fon{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.drpdown{
+    height: 5vh;
+    font-size: 1rem;
+    p ;
+    
+}
